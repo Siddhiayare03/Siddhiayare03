@@ -1,8 +1,8 @@
-# `SIDOPS` ⚡
+# `SIDOPS` 
 
 ### `build → deploy → automate → secure`
 
-I'm **Siddhi**, an Electronics & Computer Science Engineering student
+I'm *Siddhi*, an Electronics & Computer Science Engineering student
 who enjoys turning ideas into scalable systems.
 
 ```bash
@@ -28,25 +28,25 @@ Kubernetes | AWS | CI/CD | Cloud Security
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**  
+*Cloud & Infrastructure*  
 `AWS` `EC2` `EKS` `S3` `IAM` `VPC`
 
-**DevOps & CI/CD**  
+*DevOps & CI/CD*  
 `Docker` `Kubernetes` `GitHub Actions` `Jenkins` `Nginx`
 
-**Infrastructure as Code**  
+*Infrastructure as Code*  
 `Terraform`
 
-**Systems & Version Control**  
+*Systems & Version Control* 
 `Linux` `Bash` `Git` `GitHub`
 
-**Programming**  
+*Programming* 
 `Python` `Java` `SQL`
 
-**AI & Machine Learning**  
+*AI & Machine Learning*
 `Machine Learning` `NLP` `Deep Learning`
 
-**Security**  
+*Security*  
 `Cloud Security` `Web Security` `Secure SDLC`
 
 📈 GitHub Activity
