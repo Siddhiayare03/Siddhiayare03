@@ -1,8 +1,8 @@
-# `SIDOPS` 
+# `SIDOPS`
 
 ### `build → deploy → automate → secure`
 
-I'm *Siddhi*, an Electronics & Computer Science Engineering student
+I'm **Siddhi**, an Electronics & Computer Science Engineering student  
 who enjoys turning ideas into scalable systems.
 
 ```bash
@@ -15,45 +15,53 @@ DevOps | Cloud | AI | Automation
 $ currently_learning
 Kubernetes | AWS | CI/CD | Cloud Security
 
+⚙️ What I'm Into
+☁️ AWS & Cloud Infrastructure
+🔄 CI/CD & DevOps
+🐳 Docker & Kubernetes
+🤖 AI / ML
+🐧 Linux
+🔐 Cloud & Application Security
 
-### ⚙️ What I'm into
+🛠️ Tech Stack
+☁️ Cloud & Infrastructure
 
-- ☁️ AWS & Cloud Infrastructure
-- 🔄 CI/CD & DevOps
-- 🐳 Docker & Kubernetes
-- 🤖 AI / ML
-- 🐧 Linux
-- 🔐 Cloud & Application Security
+AWS EC2 EKS S3 IAM VPC
 
+⚙️ DevOps & CI/CD
 
-## 🛠️ Tech Stack
+Docker Kubernetes GitHub Actions Jenkins Nginx
 
-*Cloud & Infrastructure*  
-`AWS` `EC2` `EKS` `S3` `IAM` `VPC`
+🏗️ Infrastructure as Code
 
-*DevOps & CI/CD*  
-`Docker` `Kubernetes` `GitHub Actions` `Jenkins` `Nginx`
+Terraform
 
-*Infrastructure as Code*  
-`Terraform`
+🐧 Systems & Version Control
 
-*Systems & Version Control* 
-`Linux` `Bash` `Git` `GitHub`
+Linux Bash Git GitHub
 
-*Programming* 
-`Python` `Java` `SQL`
+💻 Programming
 
-*AI & Machine Learning*
-`Machine Learning` `NLP` `Deep Learning`
+Python Java SQL
 
-*Security*  
-`Cloud Security` `Web Security` `Secure SDLC`
+🤖 AI & Machine Learning
+
+Machine Learning NLP Deep Learning
+
+🔐 Security
+
+Cloud Security Web Security Secure SDLC
 
 📈 GitHub Activity
 
 Building something new, breaking it, fixing it,
 and learning why it broke.
 
-> Build. Automate. Deploy. Learn.
+💼 LinkedIn : https://www.linkedin.com/in/siddhi-ayare/
 
-📫 Let's connect!
+📧 Email : siddhisayare@gmail.com
+
+
+```text
+```bash
+...
