@@ -26,30 +26,30 @@ AWS | Kubernetes | CI/CD | Terraform | Cloud Security
 ```
 ---
 # What I Build
-## Cloud Infrastructure
+## **Cloud Infrastructure**
 Building and deploying applications on AWS while exploring
 cloud architecture, networking, compute and scalable infrastructure.
 
-## DevOps & Automation
+## **DevOps & Automation**
 Interested in automating the software lifecycle — from source code
 to testing, containerization and deployment.
 
-## Containers & Kubernetes
+## **Containers & Kubernetes**
 Working with containerized applications and Kubernetes
 for deployment, orchestration and scalability.
 
-## Infrastructure as Code
+## **Infrastructure as Code**
 Exploring Infrastructure as Code to provision and manage
 cloud infrastructure in a repeatable and automated way.
 
-## Linux & Systems
+## **Linux & Systems**
 Working with Linux environments, Bash and Git while
 building and managing development and deployment workflows.
 
 ---
 ##  Tech Stack
 
-**Cloud:** `AWS` `EC2` `EKS` `S3` `IAM` `VPC` `RDS` `Lambda` `ECR` `CloudWatch` `ELB` `Route 53`
+**Cloud:** `AWS` `EC2` `EKS` `S3` `IAM` `VPC` `RDS` `Lambda` `ECR` `CloudWatch` `ELB` `Route 53`  
 **DevOps:** `Docker` `Kubernetes` `GitHub Actions` `Jenkins` `Nginx`  
 **IaC:** `Terraform`  
 **Programming:** `Python` `Java` `SQL`  
