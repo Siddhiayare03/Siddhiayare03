@@ -11,7 +11,7 @@ is designed to scale reliably.
 
 ---
 
-*About Me*
+# About Me
 
 ```bash
 $ whoami
@@ -25,7 +25,7 @@ AWS | Kubernetes | CI/CD | Terraform | Cloud Security
 
 ```
 ---
-What I Build
+# What I Build
 *Cloud Infrastructure*
 Building and deploying applications on AWS while exploring
 cloud architecture, networking, compute and scalable infrastructure.
@@ -75,8 +75,8 @@ When I'm not building or deploying, you'll probably find me
 sketching, painting on canvas, listening to music, or exploring
 something new.
 
---
-*Connect*
+---
+# Connect
 
 GitHub: github.com/Siddhiayare03
 
