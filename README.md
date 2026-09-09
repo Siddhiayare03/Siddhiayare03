@@ -1,6 +1,6 @@
 # SIDOPS
 
-# `build → deploy → automate → scale`
+## `build → deploy → automate → scale`
 
 I'm **Siddhi**, an Electronics & Computer Science Engineering student
 focused on **Cloud, DevOps and Infrastructure Automation**.
@@ -11,7 +11,7 @@ is designed to scale reliably.
 
 ---
 
-# About Me
+## About Me
 
 ```bash
 $ whoami
@@ -25,24 +25,24 @@ AWS | Kubernetes | CI/CD | Terraform | Cloud Security
 
 ```
 ---
-# What I Build
-## **Cloud Infrastructure**
+## What I Build
+**Cloud Infrastructure**
 Building and deploying applications on AWS while exploring
 cloud architecture, networking, compute and scalable infrastructure.
 
-## **DevOps & Automation**
+**DevOps & Automation**
 Interested in automating the software lifecycle — from source code
 to testing, containerization and deployment.
 
-## **Containers & Kubernetes**
+**Containers & Kubernetes**
 Working with containerized applications and Kubernetes
 for deployment, orchestration and scalability.
 
-## **Infrastructure as Code**
+**Infrastructure as Code**
 Exploring Infrastructure as Code to provision and manage
 cloud infrastructure in a repeatable and automated way.
 
-## **Linux & Systems**
+**Linux & Systems**
 Working with Linux environments, Bash and Git while
 building and managing development and deployment workflows.
 
@@ -66,7 +66,7 @@ sketching, painting on canvas, listening to music, or exploring
 something new.
 
 ---
-# Connect
+## Connect
 
 LinkedIn: www.linkedin.com/in/siddhi-ayare
 
