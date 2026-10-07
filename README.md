@@ -1,4 +1,4 @@
-# SIDOPS
+# SIDDHI AYARE
 
 ## `build → deploy → automate → scale`
 
