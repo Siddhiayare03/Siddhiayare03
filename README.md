@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer+in+the+making;Deploying+on+AWS+%E2%98%81%EF%B8%8F;Automating+everything+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Infrastructure+as+Code+with+Terraform+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Siddhiayare03&label=Profile%20Views&color=0e75b6&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siddhi--ayare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhi-ayare)
 ![AWS SBG VIT](https://img.shields.io/badge/AWS%20SBG%20VIT-General%20Secretary%202026--27-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
