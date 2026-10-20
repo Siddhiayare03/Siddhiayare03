@@ -115,24 +115,13 @@ sketching | painting on canvas | music | exploring something new
 
 ---
 
-## 🧭 Roadmap
-
-- [x] Deploy apps on AWS (EC2, S3, RDS, Lambda)
-- [x] Containerize with Docker
-- [ ] Kubernetes on EKS, end to end
-- [ ] Full CI/CD pipelines with GitHub Actions and Jenkins
-- [ ] Terraform-managed multi-tier infrastructure
-- [ ] Cloud security hardening and VAPT practice
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhi-ayare)
 
-*"Automate the boring stuff, scale the interesting stuff."* ✨
+*"For Everything i have yet to become."* ✨
 
 </div>
 
