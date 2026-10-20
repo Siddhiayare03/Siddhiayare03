@@ -88,28 +88,16 @@ sketching | painting on canvas | music | exploring something new
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🛡️ **[FactShield](https://github.com/YOUR_USERNAME/FactShield)** | Agentic AI platform for misinformation detection and claim verification | FastAPI · LangGraph · Next.js |
-| ☁️ **[Project 2](https://github.com/YOUR_USERNAME/REPO)** | One line on what it deploys and why | AWS · Terraform · GitHub Actions |
-| 🐳 **[Project 3](https://github.com/YOUR_USERNAME/REPO)** | One line on what it automates | Docker · Kubernetes · Jenkins |
-
-> 💡 Tip: pin these 6 repos on your profile and add an architecture diagram + live link to each repo's README.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddhiayare03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhiayare03&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Siddhiayare03&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhiayare03&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
